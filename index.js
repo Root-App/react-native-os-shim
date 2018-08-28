@@ -1,2 +1,19 @@
-var RNOS = require("react-native-os");
-module.exports = global.os = RNOS;
+module.exports = {
+  EOL: '\n',
+  arch: () => {},
+  constants: {},
+  cpus: () => {},
+  endianness: () => {},
+  freemem: () => {},
+  homedir: () => {},
+  hostname: () => {},
+  loadavg: () => {},
+  networkInterfaces: () => {},
+  platform: () => {},
+  release: () => {},
+  tmpdir: () => {},
+  totalmen: () => {},
+  type: () => {},
+  uptime: () => {},
+  userInfo: () => {},
+}
