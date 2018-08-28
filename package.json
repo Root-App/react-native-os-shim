@@ -7,7 +7,7 @@
   "homepage": "https://github.com/Root-App/react-native-os-shim",
   "repository": {
     "type": "git",
-    "url": "https://github.com/staltz/react-native-process-shim"
+    "url": "https://github.com/staltz/react-native-os-shim"
   },
   "keywords": ["react-native", "process", "node", "nodejs", "shim"],
   "license": "MIT",
